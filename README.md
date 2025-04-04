@@ -1,8 +1,6 @@
 # ActionRoguelike
 UE5 Action Roguelike largely using C++.
 
-````
-
 # Credits
 
 Huge thanks to [tharlevfx](https://www.tharlevfx.com/) for converting all the Paragon Cascade effects to Niagara! Check out his [VFX courses here](https://tharlevfx.gumroad.com/)!
